@@ -23,7 +23,7 @@ All tests follow the **Page Object Model (POM)** pattern for maintainability and
 ---
 
 ## 📁 Project Structure
-
+```
 saucedemo-tests/
 ├── pages/ # Page Object Models
 │ ├── LoginPage.ts
@@ -37,7 +37,7 @@ saucedemo-tests/
 ├── package.json
 └── README.md # Project documentation
 
-
+```
 ---
 
 ## 🚀 Getting Started
