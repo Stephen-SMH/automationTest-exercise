@@ -20,25 +20,7 @@ This project covers two key test scenarios:
 
 All tests follow the **Page Object Model (POM)** pattern for maintainability and scalability.
 
----
 
-## 📁 Project Structure
-```
-saucedemo-tests/
-├── pages/ # Page Object Models
-│ ├── LoginPage.ts
-│ ├── InventoryPage.ts
-│ └── Cart.ts
-├── tests/ # Automated tests
-│ ├── login.test.ts
-│ └── purchase.test.ts
-├── playwright.config.ts # Playwright config
-├── tsconfig.json # TypeScript config
-├── package.json
-└── README.md # Project documentation
-
-```
----
 
 ## 🚀 Getting Started
 
